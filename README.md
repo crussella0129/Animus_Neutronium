@@ -1,5 +1,5 @@
 ![Neutronium](Neutronium.jpg)
-# Neutronium
+# Neutronium - A Component of The Animus Project
 
 **An agent-agnostic skill for building beautiful, fast front ends with Astro + SolidJS + TypeScript.**
 
