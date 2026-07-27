@@ -1,3 +1,4 @@
+![Neutronium](Neutronium.jpg)
 # Neutronium
 
 **An agent-agnostic skill for building beautiful, fast front ends with Astro + SolidJS + TypeScript.**
